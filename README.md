@@ -16,7 +16,7 @@ I am currently studying Full Stack Web at Digital House thanks to Fundacion Form
 
 
 ## 🔗 Links
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matias-sabbadini/)](https://www.linkedin.com/in/matias-sabbadini/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matias-sabbadini-0141a0218/)](https://www.linkedin.com/in/matias-sabbadini-0141a0218/)
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on...

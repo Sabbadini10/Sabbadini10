@@ -10,11 +10,13 @@ I am currently studying Full Stack Web at Digital House thanks to Fundacion Form
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-316b03?style=plastic&logo=Node.js&logoColor=black)
-![React.js](https://img.shields.io/badge/-React-04979d?style=plastic&logo=React&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-5c11f2?style=plastic&logo=Bootstrap&logoColor=black)
-![MySql](https://img.shields.io/badge/-MySQL-cian?style=plastic&logo=Mysql&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-316b03?style=plastic&logo=Node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-f23611?style=plastic&logo=Express.js&logoColor=white)
+![React.js](https://img.shields.io/badge/-React-04979d?style=plastic&logo=React&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-5c11f2?style=plastic&logo=Bootstrap&logoColor=white)
+![MySql](https://img.shields.io/badge/-MySQL-cian?style=plastic&logo=Mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-orange?style=plastic&logo=Git&logoColor=white)
 
 
 

@@ -22,9 +22,9 @@ I am currently studying Full Stack Web at Digital House thanks to Fundacion Form
 
 
 ## 🔗 Links
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matias-sabbadini-0141a0218/)](https://www.linkedin.com/in/matias-sabbadini-0141a0218/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matias-sabbadini-desarrollador/)](https://www.linkedin.com/in/matias-sabbadini-desarrollador/)
 
-[![Portafolios](https://img.shields.io/badge/-Portafolio-12ff00?style=plastic&logo=Vercel&logoColor=white&link=https://portafolio-matias-sabbadini.vercel.app/)](https://portafolio-matias-sabbadini.vercel.app/)
+[![Portafolios](https://img.shields.io/badge/-Portafolio-0012ff?style=plastic&logo=Vercel&logoColor=white&link=https://portafolio-matias-sabbadini.vercel.app/)](https://portafolio-matias-sabbadini.vercel.app/)
 
 
 

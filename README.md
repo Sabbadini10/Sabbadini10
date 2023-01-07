@@ -11,8 +11,9 @@ I am currently studying Full Stack Web at Digital House thanks to Fundacion Form
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-F7DF1E?style=plastic&logo=Node.js&logoColor=black)
-![MySql](https://img.shields.io/badge/-MySQL-yellow?style=plastic&logo=Mysql&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-316b03?style=plastic&logo=Node.js&logoColor=black)
+![React.js](https://img.shields.io/badge/-React.js-04979d?style=plastic&logo=React.js&logoColor=black)
+![MySql](https://img.shields.io/badge/-MySQL-cian?style=plastic&logo=Mysql&logoColor=black)
 
 
 

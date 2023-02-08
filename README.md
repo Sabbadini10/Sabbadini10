@@ -8,17 +8,17 @@ I am currently studying Full Stack Web at Digital House thanks to Fundacion Form
 
 ## 🛠 Skills
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-5c11f2?style=plastic&logo=Bootstrap&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
-![React.js](https://img.shields.io/badge/-React-04979d?style=plastic&logo=React&logoColor=black)
-![Angular.js](https://img.shields.io/badge/-Angular-ff0000?style=plastic&logo=Angular&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-316b03?style=plastic&logo=Node.js&logoColor=black)
-![Express.js](https://img.shields.io/badge/-Express-orange?style=plastic&logo=Express&logoColor=black)
-![Sequelize](https://img.shields.io/badge/-Sequelize-978108?style=plastic&logo=Sequelize&logoColor=black)
-![MySql](https://img.shields.io/badge/-MySQL-cian?style=plastic&logo=Mysql&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-f23611?style=plastic&logo=Git&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-F47D00?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1700F5?style=plastic&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-DF02F4?style=plastic&logo=Bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-EADF56?style=plastic&logo=JavaScript&logoColor=white)
+![React.js](https://img.shields.io/badge/-React-38DDFC?style=plastic&logo=React&logoColor=white)
+![Angular.js](https://img.shields.io/badge/-Angular-F5002D?style=plastic&logo=Angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-14EA42?style=plastic&logo=Node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express-9E7244?style=plastic&logo=Express&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-978108?style=plastic&logo=Sequelize&logoColor=white)
+![MySql](https://img.shields.io/badge/-MySQL-C9E4B?style=plastic&logo=Mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-FA5A01?style=plastic&logo=Git&logoColor=white)
 
 
 

@@ -9,12 +9,12 @@ I am currently studying Full Stack Web at Digital House thanks to Fundacion Form
 ## 🛠 Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F47D00?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1700F5?style=plastic&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1723F5?style=plastic&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-DF02F4?style=plastic&logo=Bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-EADF56?style=plastic&logo=JavaScript&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React-38DDFC?style=plastic&logo=React&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/-Angular-F5002D?style=plastic&logo=Angular&logoColor=white)
-![Typescript](https://img.shields.io/badge/-Typescript-F5002D?style=plastic&logo=Typescript&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-1700F5?style=plastic&logo=Typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-14EA42?style=plastic&logo=Node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express-9E7244?style=plastic&logo=Express&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-978108?style=plastic&logo=Sequelize&logoColor=white)

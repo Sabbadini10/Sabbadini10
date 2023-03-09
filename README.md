@@ -14,6 +14,7 @@ I am currently studying Full Stack Web at Digital House thanks to Fundacion Form
 ![JavaScript](https://img.shields.io/badge/-JavaScript-EADF56?style=plastic&logo=JavaScript&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React-38DDFC?style=plastic&logo=React&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/-Angular-F5002D?style=plastic&logo=Angular&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-F5002D?style=plastic&logo=Typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-14EA42?style=plastic&logo=Node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express-9E7244?style=plastic&logo=Express&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-978108?style=plastic&logo=Sequelize&logoColor=white)
